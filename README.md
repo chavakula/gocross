@@ -23,4 +23,4 @@ above command should show you if image was created successfuly or not.
 You are ready to cross compile!
 
 **Note:** 
-Since we are build this image for mutiple architectures & Platforms build time for this docker image is on a higher side.
+Since we are building this image for mutiple architectures & Platforms build time for this docker image is on a higher side.
