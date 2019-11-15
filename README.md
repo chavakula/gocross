@@ -7,6 +7,7 @@ This docker file when build, will install all the required tool chains, C/C++ ba
 
 ## Supported Platforms & Architectures
 **Platforms:** darwin, linux, windows
+
 **Achitectures:** 386, amd64, arm-5, arm-6, arm-7, arm64, mips, mipsle, mips64, mips64le
 
 ## Example Usage 
